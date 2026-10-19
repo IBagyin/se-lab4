@@ -1,0 +1,2 @@
+GT4500,10,1.0,10,0
+TORPEDO,ALL   # primary always fails, secondary works: at least one fired
